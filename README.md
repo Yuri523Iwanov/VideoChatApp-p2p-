@@ -3,7 +3,7 @@ Simple one-to-one Text chat, Voice and Video call client using [**PeerJS**](http
 
 Simple P2P Text/Voice/Video chat client (Using PeerJS). Works on Chrome and Firefox, Platforms: Windows, Linux, Mac. Just open the link in Browser, You don't need any extra tools for Video Chat.
 
-https://valarpirai.github.io/video-chat-app/
+https://github.com/Yuri523Iwanov/VideoChatApp-p2p-
 
 ## Technology and library
 * [WebRTC](https://webrtc.org/)
